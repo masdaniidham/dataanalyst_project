@@ -1,0 +1,429 @@
+Customer_Code,Recency,Frequency,Monetary,Cluster,Cluster_Name
+0,0,15,58,0,Active Regulars
+100,315,2,3,1,At-Risk / Lapsed
+101,313,7,33,1,At-Risk / Lapsed
+102,313,11,50,1,At-Risk / Lapsed
+103,307,1,15,1,At-Risk / Lapsed
+104,307,1,7,1,At-Risk / Lapsed
+105,307,1,1,1,At-Risk / Lapsed
+106,307,1,1,1,At-Risk / Lapsed
+107,307,1,5,1,At-Risk / Lapsed
+108,307,1,5,1,At-Risk / Lapsed
+109,307,2,12,1,At-Risk / Lapsed
+110,264,6,6,1,At-Risk / Lapsed
+111,306,1,1,1,At-Risk / Lapsed
+112,294,5,29,1,At-Risk / Lapsed
+114,39,7,7,0,Active Regulars
+115,301,1,2,1,At-Risk / Lapsed
+117,301,1,1,1,At-Risk / Lapsed
+118,301,1,1,1,At-Risk / Lapsed
+119,301,2,2,1,At-Risk / Lapsed
+121,301,1,4,1,At-Risk / Lapsed
+122,271,4,67,1,At-Risk / Lapsed
+123,300,1,1,1,At-Risk / Lapsed
+124,300,1,1,1,At-Risk / Lapsed
+125,300,1,1,1,At-Risk / Lapsed
+126,300,1,1,1,At-Risk / Lapsed
+127,300,1,1,1,At-Risk / Lapsed
+128,267,32,43,1,At-Risk / Lapsed
+129,295,10,11,1,At-Risk / Lapsed
+130,296,2,23,1,At-Risk / Lapsed
+131,266,3,4,1,At-Risk / Lapsed
+135,268,3,3,1,At-Risk / Lapsed
+136,268,9,51,1,At-Risk / Lapsed
+139,239,5,17,1,At-Risk / Lapsed
+140,254,1,1,1,At-Risk / Lapsed
+144,247,3,3,1,At-Risk / Lapsed
+145,107,3,3,0,Active Regulars
+146,107,4,4,0,Active Regulars
+147,248,2,2,1,At-Risk / Lapsed
+148,248,1,1,1,At-Risk / Lapsed
+152,246,1,1,1,At-Risk / Lapsed
+153,239,1,1,1,At-Risk / Lapsed
+157,239,1,1,1,At-Risk / Lapsed
+158,239,1,1,1,At-Risk / Lapsed
+161,236,1,1,1,At-Risk / Lapsed
+162,226,1,1,1,At-Risk / Lapsed
+163,226,1,1,1,At-Risk / Lapsed
+164,225,1,1,1,At-Risk / Lapsed
+165,225,2,2,1,At-Risk / Lapsed
+166,225,1,1,1,At-Risk / Lapsed
+167,225,1,1,1,At-Risk / Lapsed
+168,225,1,1,1,At-Risk / Lapsed
+169,225,3,3,1,At-Risk / Lapsed
+170,224,3,4,1,At-Risk / Lapsed
+171,224,1,1,1,At-Risk / Lapsed
+173,219,1,1,1,At-Risk / Lapsed
+174,218,1,1,1,At-Risk / Lapsed
+175,218,1,1,1,At-Risk / Lapsed
+176,218,1,1,1,At-Risk / Lapsed
+177,218,2,2,1,At-Risk / Lapsed
+178,218,1,1,1,At-Risk / Lapsed
+179,218,2,2,1,At-Risk / Lapsed
+180,218,1,1,1,At-Risk / Lapsed
+181,218,1,1,1,At-Risk / Lapsed
+182,215,1,1,1,At-Risk / Lapsed
+183,212,1,1,1,At-Risk / Lapsed
+184,212,1,1,1,At-Risk / Lapsed
+185,212,1,1,1,At-Risk / Lapsed
+186,211,1,1,1,At-Risk / Lapsed
+187,211,2,2,1,At-Risk / Lapsed
+188,211,2,2,1,At-Risk / Lapsed
+189,211,1,1,1,At-Risk / Lapsed
+190,211,2,2,1,At-Risk / Lapsed
+191,210,2,2,1,At-Risk / Lapsed
+192,208,1,1,1,At-Risk / Lapsed
+193,208,1,2,1,At-Risk / Lapsed
+194,208,1,1,1,At-Risk / Lapsed
+195,208,1,1,1,At-Risk / Lapsed
+196,208,1,2,1,At-Risk / Lapsed
+197,208,1,1,1,At-Risk / Lapsed
+198,208,1,1,1,At-Risk / Lapsed
+199,205,1,1,1,At-Risk / Lapsed
+200,205,2,2,1,At-Risk / Lapsed
+201,205,1,1,1,At-Risk / Lapsed
+202,205,2,2,1,At-Risk / Lapsed
+203,205,1,2,1,At-Risk / Lapsed
+204,205,1,1,1,At-Risk / Lapsed
+205,205,1,2,1,At-Risk / Lapsed
+206,205,2,2,1,At-Risk / Lapsed
+207,204,2,2,1,At-Risk / Lapsed
+208,204,3,3,1,At-Risk / Lapsed
+209,201,1,2,1,At-Risk / Lapsed
+214,198,1,2,1,At-Risk / Lapsed
+215,198,1,1,1,At-Risk / Lapsed
+216,198,1,1,1,At-Risk / Lapsed
+217,198,2,2,1,At-Risk / Lapsed
+219,197,1,1,1,At-Risk / Lapsed
+22,154,5,21,0,Active Regulars
+220,197,1,1,1,At-Risk / Lapsed
+222,196,1,1,1,At-Risk / Lapsed
+224,196,1,1,1,At-Risk / Lapsed
+23,40,84,112,2,VIP Power Users
+237,191,1,1,1,At-Risk / Lapsed
+24,209,17,17,1,At-Risk / Lapsed
+240,191,1,1,1,At-Risk / Lapsed
+245,188,2,4,1,At-Risk / Lapsed
+249,187,1,2,1,At-Risk / Lapsed
+250,187,1,1,1,At-Risk / Lapsed
+251,184,1,1,1,At-Risk / Lapsed
+252,178,20,95,0,Active Regulars
+253,182,1,2,1,At-Risk / Lapsed
+254,181,2,2,1,At-Risk / Lapsed
+255,181,1,1,1,At-Risk / Lapsed
+256,28,52,78,2,VIP Power Users
+257,175,1,1,0,Active Regulars
+258,175,1,1,0,Active Regulars
+259,175,1,1,0,Active Regulars
+260,166,4,6,0,Active Regulars
+261,173,1,1,0,Active Regulars
+262,121,22,25,0,Active Regulars
+263,163,15,30,0,Active Regulars
+264,169,5,62,0,Active Regulars
+265,173,3,7,0,Active Regulars
+266,156,9,24,0,Active Regulars
+268,170,1,3,0,Active Regulars
+269,170,2,6,0,Active Regulars
+27,140,11,20,0,Active Regulars
+270,170,1,3,0,Active Regulars
+271,107,44,69,2,VIP Power Users
+272,169,1,1,0,Active Regulars
+273,166,9,11,0,Active Regulars
+274,169,1,3,0,Active Regulars
+275,155,9,12,0,Active Regulars
+276,168,3,3,0,Active Regulars
+277,124,16,21,0,Active Regulars
+278,168,3,4,0,Active Regulars
+279,163,1,1,0,Active Regulars
+280,98,21,26,0,Active Regulars
+281,163,2,2,0,Active Regulars
+282,161,1,1,0,Active Regulars
+283,160,2,2,0,Active Regulars
+284,160,1,1,0,Active Regulars
+285,160,2,2,0,Active Regulars
+286,146,14,24,0,Active Regulars
+287,156,5,5,0,Active Regulars
+288,107,16,122,2,VIP Power Users
+289,89,2,2,0,Active Regulars
+290,155,16,16,0,Active Regulars
+291,156,3,3,0,Active Regulars
+292,90,3,5,0,Active Regulars
+293,156,5,7,0,Active Regulars
+294,155,1,1,0,Active Regulars
+295,119,4,6,0,Active Regulars
+296,153,3,4,0,Active Regulars
+297,152,1,1,0,Active Regulars
+298,104,98,204,2,VIP Power Users
+299,147,1,1,0,Active Regulars
+30,16,1,32,0,Active Regulars
+300,147,1,1,0,Active Regulars
+301,147,1,1,0,Active Regulars
+302,147,1,1,0,Active Regulars
+303,146,1,4,0,Active Regulars
+304,139,3,6,0,Active Regulars
+305,146,1,3,0,Active Regulars
+308,142,2,2,0,Active Regulars
+309,141,2,2,0,Active Regulars
+310,86,17,48,0,Active Regulars
+311,140,1,1,0,Active Regulars
+312,114,17,54,0,Active Regulars
+313,1,99,191,2,VIP Power Users
+314,106,34,102,2,VIP Power Users
+315,139,5,12,0,Active Regulars
+316,139,1,2,0,Active Regulars
+317,139,3,3,0,Active Regulars
+318,139,2,2,0,Active Regulars
+319,120,3,5,0,Active Regulars
+320,118,11,27,0,Active Regulars
+321,98,7,18,0,Active Regulars
+322,112,3,3,0,Active Regulars
+323,84,2,2,0,Active Regulars
+324,138,3,5,0,Active Regulars
+325,138,1,1,0,Active Regulars
+326,137,1,1,0,Active Regulars
+327,136,10,12,0,Active Regulars
+328,136,1,3,0,Active Regulars
+329,135,1,2,0,Active Regulars
+330,135,3,3,0,Active Regulars
+331,135,1,1,0,Active Regulars
+332,30,64,115,2,VIP Power Users
+333,133,2,8,0,Active Regulars
+334,134,3,3,0,Active Regulars
+335,131,1,1,0,Active Regulars
+336,128,1,3,0,Active Regulars
+337,128,1,2,0,Active Regulars
+338,128,2,2,0,Active Regulars
+339,127,1,1,0,Active Regulars
+34,218,9,12,1,At-Risk / Lapsed
+340,126,1,1,0,Active Regulars
+341,126,2,2,0,Active Regulars
+342,125,1,4,0,Active Regulars
+343,125,3,9,0,Active Regulars
+344,125,1,1,0,Active Regulars
+345,23,3,4,0,Active Regulars
+346,125,1,2,0,Active Regulars
+347,96,11,11,0,Active Regulars
+348,124,1,1,0,Active Regulars
+349,124,5,6,0,Active Regulars
+35,43,8,8,0,Active Regulars
+350,124,2,5,0,Active Regulars
+351,100,27,37,0,Active Regulars
+352,100,9,14,0,Active Regulars
+353,121,6,6,0,Active Regulars
+354,124,3,3,0,Active Regulars
+355,124,3,3,0,Active Regulars
+356,124,3,3,0,Active Regulars
+357,124,3,3,0,Active Regulars
+358,124,3,3,0,Active Regulars
+359,124,3,3,0,Active Regulars
+360,124,3,3,0,Active Regulars
+361,124,2,2,0,Active Regulars
+362,100,7,13,0,Active Regulars
+363,121,5,6,0,Active Regulars
+364,121,5,6,0,Active Regulars
+365,121,5,6,0,Active Regulars
+366,121,4,6,0,Active Regulars
+367,100,6,13,0,Active Regulars
+368,100,7,13,0,Active Regulars
+369,124,2,3,0,Active Regulars
+370,124,2,3,0,Active Regulars
+371,124,2,3,0,Active Regulars
+372,124,2,3,0,Active Regulars
+373,124,2,3,0,Active Regulars
+374,124,2,3,0,Active Regulars
+375,124,2,3,0,Active Regulars
+376,124,2,3,0,Active Regulars
+377,124,2,3,0,Active Regulars
+378,124,2,3,0,Active Regulars
+379,124,2,3,0,Active Regulars
+380,124,2,3,0,Active Regulars
+381,124,2,3,0,Active Regulars
+382,124,2,3,0,Active Regulars
+383,124,1,2,0,Active Regulars
+384,124,2,3,0,Active Regulars
+385,124,2,3,0,Active Regulars
+386,124,2,3,0,Active Regulars
+387,124,2,3,0,Active Regulars
+388,124,1,2,0,Active Regulars
+389,124,2,3,0,Active Regulars
+390,124,2,3,0,Active Regulars
+391,124,2,3,0,Active Regulars
+392,124,2,3,0,Active Regulars
+393,124,2,3,0,Active Regulars
+394,124,2,3,0,Active Regulars
+395,124,2,3,0,Active Regulars
+396,124,2,3,0,Active Regulars
+397,124,2,3,0,Active Regulars
+398,124,2,3,0,Active Regulars
+399,124,2,3,0,Active Regulars
+400,124,1,3,0,Active Regulars
+401,123,1,1,0,Active Regulars
+402,14,34,61,0,Active Regulars
+403,48,19,25,0,Active Regulars
+404,118,2,3,0,Active Regulars
+406,118,1,1,0,Active Regulars
+407,118,1,1,0,Active Regulars
+408,118,1,1,0,Active Regulars
+409,117,1,1,0,Active Regulars
+410,114,2,2,0,Active Regulars
+412,113,2,5,0,Active Regulars
+413,110,2,4,0,Active Regulars
+414,113,1,1,0,Active Regulars
+415,105,3,3,0,Active Regulars
+416,76,10,19,0,Active Regulars
+417,107,1,1,0,Active Regulars
+418,106,1,3,0,Active Regulars
+419,106,1,4,0,Active Regulars
+42,180,3,3,1,At-Risk / Lapsed
+420,40,5,16,0,Active Regulars
+421,15,23,39,0,Active Regulars
+422,12,28,65,0,Active Regulars
+423,106,1,1,0,Active Regulars
+424,106,1,4,0,Active Regulars
+425,76,59,102,2,VIP Power Users
+426,14,42,84,2,VIP Power Users
+427,103,1,1,0,Active Regulars
+428,10,13,32,0,Active Regulars
+429,103,1,1,0,Active Regulars
+430,57,8,11,0,Active Regulars
+431,99,2,2,0,Active Regulars
+432,97,7,19,0,Active Regulars
+433,101,2,2,0,Active Regulars
+434,101,2,2,0,Active Regulars
+435,100,1,1,0,Active Regulars
+436,93,8,11,0,Active Regulars
+437,100,1,1,0,Active Regulars
+438,100,1,2,0,Active Regulars
+439,100,1,2,0,Active Regulars
+440,100,1,1,0,Active Regulars
+441,100,1,1,0,Active Regulars
+442,100,1,1,0,Active Regulars
+443,100,1,1,0,Active Regulars
+444,100,1,1,0,Active Regulars
+445,100,1,1,0,Active Regulars
+446,100,1,1,0,Active Regulars
+447,100,1,1,0,Active Regulars
+448,100,1,1,0,Active Regulars
+449,99,2,4,0,Active Regulars
+450,99,1,1,0,Active Regulars
+451,57,10,15,0,Active Regulars
+452,99,1,1,0,Active Regulars
+454,99,1,1,0,Active Regulars
+455,99,1,1,0,Active Regulars
+456,99,1,1,0,Active Regulars
+457,99,1,1,0,Active Regulars
+458,99,5,20,0,Active Regulars
+459,98,1,1,0,Active Regulars
+460,98,1,1,0,Active Regulars
+461,97,1,1,0,Active Regulars
+462,97,2,2,0,Active Regulars
+463,10,8,10,0,Active Regulars
+464,95,3,5,0,Active Regulars
+467,95,1,1,0,Active Regulars
+468,93,2,2,0,Active Regulars
+470,89,1,5,0,Active Regulars
+471,89,1,1,0,Active Regulars
+472,14,5,7,0,Active Regulars
+473,89,4,11,0,Active Regulars
+474,12,22,65,0,Active Regulars
+475,88,2,2,0,Active Regulars
+477,87,1,1,0,Active Regulars
+481,86,3,3,0,Active Regulars
+484,86,1,2,0,Active Regulars
+489,85,1,1,0,Active Regulars
+493,84,10,15,0,Active Regulars
+494,42,7,7,0,Active Regulars
+495,84,1,1,0,Active Regulars
+498,84,1,1,0,Active Regulars
+499,84,1,3,0,Active Regulars
+50,198,1,1,1,At-Risk / Lapsed
+511,83,1,4,0,Active Regulars
+514,83,1,2,0,Active Regulars
+518,78,1,1,0,Active Regulars
+520,76,1,1,0,Active Regulars
+521,76,1,3,0,Active Regulars
+522,74,1,2,0,Active Regulars
+526,70,1,6,0,Active Regulars
+53,120,145,282,2,VIP Power Users
+535,70,1,1,0,Active Regulars
+536,70,1,1,0,Active Regulars
+54,107,15,16,0,Active Regulars
+543,70,1,4,0,Active Regulars
+546,69,1,1,0,Active Regulars
+551,69,1,1,0,Active Regulars
+560,64,2,4,0,Active Regulars
+572,64,1,5,0,Active Regulars
+574,12,9,16,0,Active Regulars
+58,328,93,344,2,VIP Power Users
+590,58,1,5,0,Active Regulars
+591,58,1,5,0,Active Regulars
+592,57,1,3,0,Active Regulars
+593,57,1,2,0,Active Regulars
+594,57,1,4,0,Active Regulars
+595,55,5,11,0,Active Regulars
+596,57,1,3,0,Active Regulars
+599,57,1,1,0,Active Regulars
+600,57,1,1,0,Active Regulars
+602,56,1,1,0,Active Regulars
+61,307,1,4,1,At-Risk / Lapsed
+623,40,13,16,0,Active Regulars
+624,51,1,1,0,Active Regulars
+625,51,1,2,0,Active Regulars
+626,51,2,10,0,Active Regulars
+627,50,1,4,0,Active Regulars
+629,50,1,1,0,Active Regulars
+631,49,1,1,0,Active Regulars
+637,44,1,1,0,Active Regulars
+64,167,1,1,0,Active Regulars
+646,45,1,1,0,Active Regulars
+652,44,1,1,0,Active Regulars
+654,43,1,3,0,Active Regulars
+656,1,20,53,0,Active Regulars
+660,40,1,2,0,Active Regulars
+664,39,1,2,0,Active Regulars
+665,38,1,5,0,Active Regulars
+667,35,1,2,0,Active Regulars
+668,35,1,4,0,Active Regulars
+669,16,1,8,0,Active Regulars
+671,32,1,1,0,Active Regulars
+678,16,1,1,0,Active Regulars
+68,323,1,1,1,At-Risk / Lapsed
+680,15,1,1,0,Active Regulars
+681,14,3,3,0,Active Regulars
+684,13,1,3,0,Active Regulars
+687,5,1,1,0,Active Regulars
+688,5,2,2,0,Active Regulars
+689,5,1,1,0,Active Regulars
+690,5,1,1,0,Active Regulars
+693,2,1,1,0,Active Regulars
+694,2,7,9,0,Active Regulars
+695,1,1,1,0,Active Regulars
+696,1,1,1,0,Active Regulars
+698,1,2,6,0,Active Regulars
+71,336,52,58,2,VIP Power Users
+72,362,4,8,1,At-Risk / Lapsed
+73,362,1,1,1,At-Risk / Lapsed
+75,362,1,1,1,At-Risk / Lapsed
+76,360,2,4,1,At-Risk / Lapsed
+77,360,1,8,1,At-Risk / Lapsed
+78,359,1,3,1,At-Risk / Lapsed
+79,359,2,6,1,At-Risk / Lapsed
+80,359,1,1,1,At-Risk / Lapsed
+81,358,1,1,1,At-Risk / Lapsed
+83,358,1,1,1,At-Risk / Lapsed
+84,159,61,76,2,VIP Power Users
+85,355,1,3,1,At-Risk / Lapsed
+86,355,15,50,1,At-Risk / Lapsed
+87,355,18,46,1,At-Risk / Lapsed
+88,349,8,16,1,At-Risk / Lapsed
+89,351,2,12,1,At-Risk / Lapsed
+90,350,1,2,1,At-Risk / Lapsed
+91,349,1,1,1,At-Risk / Lapsed
+92,348,1,2,1,At-Risk / Lapsed
+93,345,9,65,1,At-Risk / Lapsed
+94,336,2,2,1,At-Risk / Lapsed
+95,313,17,149,2,VIP Power Users
+96,322,1,1,1,At-Risk / Lapsed
+97,322,1,1,1,At-Risk / Lapsed
+98,322,1,1,1,At-Risk / Lapsed
+99,322,1,1,1,At-Risk / Lapsed
